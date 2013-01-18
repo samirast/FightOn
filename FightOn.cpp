@@ -4,6 +4,6 @@ using namespace std;
 
 int main()
 {
-cout << "Hello World!\n";
+cout << "Fight On!\n";
 return 0;
 }
